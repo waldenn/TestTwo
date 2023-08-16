@@ -6,5 +6,6 @@ static class TestClass
     {
         Console.WriteLine("Hello World!");
         // Hmmm...
+        // Hmmm... Two!
     }
 }
